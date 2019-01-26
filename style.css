@@ -4,3 +4,7 @@ h2{background-color: pink;
 color:white;text-align:center;}
 h3{background-color: white ;color:pink;
 }
+img{width:50%;
+  display:block;
+  margin:0 auto;}
+#jumbo
